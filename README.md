@@ -1,16 +1,9 @@
 # 🧮 OS-OEL-NED
 
 This repository contains the **Dot Product Program** implemented for the **Operating Systems Open-Ended Lab (OEL)** at **NED University of Engineering & Technology**.
-
+AND THANKS TO TALHA
 ---
 
-## 📘 Brief Description
-
-The **Open-Ended Lab (OEL)** in the Operating Systems course allows students to apply theoretical concepts in a practical way.  
-In this particular OEL, we implement a **Parallel Dot Product** program in **C** using **POSIX Threads (pthreads)**.  
-The goal is to understand **multithreading**, **mutex locks**, and how **race conditions** can affect shared data in concurrent execution.
-
----
 
 ## ⚙️ HOW TO COMPILE AND RUN THE CODE
 
@@ -38,3 +31,14 @@ After compilation, run the executable:
 ./dot
 
 
+
+
+
+
+## 📘 Brief Description
+
+The **Open-Ended Lab (OEL)** in the Operating Systems course allows students to apply theoretical concepts in a practical way.  
+In this particular OEL, we implement a **Parallel Dot Product** program in **C** using **POSIX Threads (pthreads)**.  
+The goal is to understand **multithreading**, **mutex locks**, and how **race conditions** can affect shared data in concurrent execution.
+
+---
