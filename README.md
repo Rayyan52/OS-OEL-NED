@@ -1,7 +1,7 @@
 # 🧮 OS-OEL-NED
 
 This repository contains the **Dot Product Program** 
-AND THANKS TO TALHA
+THANKS TO TALHA
 ---
 
 
