@@ -1,6 +1,6 @@
 # 🧮 OS-OEL-NED
 
-This repository contains the **Dot Product Program** implemented for the **Operating Systems Open-Ended Lab (OEL)** at **NED University of Engineering & Technology**.
+This repository contains the **Dot Product Program** 
 AND THANKS TO TALHA
 ---
 
