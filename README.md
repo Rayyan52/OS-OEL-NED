@@ -16,20 +16,18 @@ Example:
 
 ### 🧱 Step 1: Compile the Program
 Run this command in your terminal:
-
-```bash
 gcc "file.c" -pthread -o dot
 
-Example:
-
+```bash
 gcc dot_productthread.c -pthread -o dot
+```
 
-▶️ Step 2: Run the Executable File
+###▶️ Step 2: Run the Executable File
 
 After compilation, run the executable:
-
+```bash
 ./dot
-
+```
 
 
 
